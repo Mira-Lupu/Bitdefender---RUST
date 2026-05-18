@@ -1,0 +1,1 @@
+C:\Users\Administrator\Desktop\scoala\rust\lab\ 4\version3\target\debug\version1.exe: C:\Users\Administrator\Desktop\scoala\rust\lab\ 4\version3\src\main.rs C:\Users\Administrator\Desktop\scoala\rust\lab\ 4\version3\src\protocol.rs
